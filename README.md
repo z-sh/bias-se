@@ -2,7 +2,7 @@
 This repository contains all material necessary to replicate our studies related to investigating biases in software engineering. In addition, we provide acquired raw data, processed csv files, and the statistical analysis.
 
 ## Project 1: Gender Bias in Code Review
-Huang, Y., Leach, K.,Sharafi, Z., McKay, N., Santander, Y., and Weimer, W.,2020.  Investigating gender bias and differences in code review using medicalimaging and eye–tracking. InACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering(ESEC/FSE)
+Huang, Y., Leach, K.,Sharafi, Z., McKay, N., Santander, Y., and Weimer, W.,2020.  Investigating gender bias and differences in code review using medicalimaging and eye–tracking. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering(ESEC/FSE)
 
 ## Paper Abstract
 Code review is a critical step in modern software quality assurance, yet it is vulnerable to human biases. Previous studies have clarified the extent of the problem, particularly regarding gender biases, but no consensus of understanding has emerged. Advances in medical imaging are increasingly applied to software engineering, supporting grounded neurobiological explorations of computing activities, including the review, reading, and writing of source code.
